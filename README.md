@@ -48,7 +48,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=aadityamishra32612-code&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=aadityamishra32612-code&theme=dracula&column=7&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+  <img src="./.github/assets/trophy.svg" height="150" alt="GitHub Profile Trophy" />
 </div>
 
 ###
